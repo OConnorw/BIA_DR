@@ -5,7 +5,6 @@
 
 
 2. Contributions:
-Will:
-Matthew:
-Kainoa: 
-  file contributed: kainoa_dr.ipynb
+Will: everything in folder "Will"
+Matthew: Ennis_DR.ipynb
+Kainoa: kainoa_dr.ipynb
