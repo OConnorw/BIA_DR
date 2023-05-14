@@ -1,0 +1,7 @@
+import os
+from google.colab import drive
+drive.mount('/content/drive')
+
+
+train_dir = '/content/drive/MyDrive/diabetic-retinopathy/diabetic-retinopathy/0/'
+test_dir = '/content/drive/MyDrive/diabetic-retinopathy/diabetic-retinopathy/'
