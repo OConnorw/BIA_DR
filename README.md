@@ -6,6 +6,8 @@
   - python3 dataset_split.py #only run if you want new datasets, dataset used in test is already in repository
   - python3 Train.py
   - python3 Test.py
+
+
   Kainoa and Matthew - Notebook:
   - Run each section
 
